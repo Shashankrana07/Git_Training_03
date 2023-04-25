@@ -1,6 +1,10 @@
 This is test file 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Urgent Changes
+=======
+Stash lecture in progress
+>>>>>>> Stashed changes
 =======
 Stash lecture in progress
 >>>>>>> Stashed changes
